@@ -22,7 +22,7 @@ To solve questions that may be felt by researchers in the laboratory and those w
 * argparse
 * tensorflow
 
-## **Getting Started
+## **Getting Started**
 모든 강의 영상은 Youtube에 업로드 해놓았습니다. 
 
 All lecture videos have been uploaded on YouTube.
