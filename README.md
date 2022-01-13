@@ -6,3 +6,40 @@
 Hello, I'm Kim Jae-won of ICMLab, Department of Electronic Electrical Engineering, Dankook University.
 While studying deep learning, the questions of "the order of study" and "why does it end up like that?" always remained.
 To solve questions that may be felt by researchers in the laboratory and those who are studying deep learning for the first time, we have prepared lecture videos and practices.
+
+## **Installation Process**
+* numpy
+* matplotlib
+* pandas
+* tqdm
+* opencv
+* pytorch
+* hashlib
+* json
+* os argparse
+* Seaborn
+* torchvision
+* argparse
+* tensorflow
+
+## **Getting Started
+모든 강의 영상은 Youtube에 업로드 해놓았습니다. 
+
+All lecture videos have been uploaded on YouTube.
+
+Youtube : https://www.youtube.com/channel/UCWWrL41NmOpmyjhsalMqe4A
+
+## **Contents**
+---
+### Lecture 1
+
+---
+### Lecture 2
+
+
+---
+### Lecture 3
+
+
+
+
