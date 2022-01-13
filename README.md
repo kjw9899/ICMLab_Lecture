@@ -89,3 +89,5 @@ Lec 4.2
 * Advanced CNN
 
 
+## **Reference**
+본 강의는 딥러닝 홀로서기(https://github.com/heartcored98/Standalone-DeepLearning)를 포함하여 논문, 블로그, 여러 동영상을 참고하여 제작하였습니다.
