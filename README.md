@@ -29,7 +29,7 @@ All lecture videos have been uploaded on YouTube.
 
 Youtube : https://www.youtube.com/channel/UCWWrL41NmOpmyjhsalMqe4A
 
-## **Contents**
+## Contents
 ---
 ### Lecture 1
 
