@@ -29,64 +29,63 @@ All lecture videos have been uploaded on YouTube.
 
 Youtube : https://www.youtube.com/channel/UCWWrL41NmOpmyjhsalMqe4A
 
-## Contents
+## **Contents**
 
-### Lecture 1
+### **Lecture 1**
 Lec 1.1
 
-  About AI?
+  * About AI?
   
-  Basic Regression
+  * Basic Regression
   
-  Live Coding
 
 Lec 1.2
 
-  Probability and Statistics
+  * Probability and Statistics
 
-### Lecture 2
+### **Lecture 2**
 Lec 2.1
 
-  Backpropagation
+  * Backpropagation
  
 Lec 2.2
 
-  Overfitting
+  * Overfitting
   
-  Dataset (Train, Validation, Test)
+  * Dataset (Train, Validation, Test)
   
-  Batch & Epoch
+  * Batch & Epoch
   
-### Lecture 3
+### **Lecture 3**
 Lec 3.1
 
-  Regularigation
+  * Regularigation
   
-  Drop out
+  * Drop out
   
 Lec 3.2
 
-  Gradient Vanishing
+  * Gradient Vanishing
   
-  Activation Function
+  * Activation Function
   
 Lec 3.3
 
-  Weight Initialization
+  * Weight Initialization
 
-### Lecture 4
+### **Lecture 4**
 Lec 4.1 
 
-  BatchNormalization
+  * BatchNormalization
 
 Lec 4.2
 
-  Optimizer
+  * Optimizer
   
-### Lecture 5
-Convolutional Neural Network (CNN)
+### **Lecture 5**
+* Convolutional Neural Network (CNN)
 
-### Lecture 6
-Advanced CNN
+### **Lecture 6**
+* Advanced CNN
 
 
