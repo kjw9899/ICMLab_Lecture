@@ -30,14 +30,14 @@ All lecture videos have been uploaded on YouTube.
 Youtube : https://www.youtube.com/channel/UCWWrL41NmOpmyjhsalMqe4A
 
 ## Contents
----
+
 ### Lecture 1
 
----
+
 ### Lecture 2
 
 
----
+
 ### Lecture 3
 
 
