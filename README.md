@@ -1,3 +1,4 @@
+![github](https://user-images.githubusercontent.com/79714441/149536321-75d763c1-0754-44b1-87a0-23d9c962aad4.jpg)
 # **ICMLab Deep Learning Lecture**
 안녕하세요. 단국대학교 전자전기공학부 ICMLab 김재원입니다.
 딥러닝을 공부하면서 '공부하는 순서'와 '결국 왜 그렇게 되지?'라는 의문이 항상 남아 있었습니다.
