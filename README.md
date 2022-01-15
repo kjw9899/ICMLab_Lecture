@@ -8,6 +8,8 @@ Hello, I'm Kim Jae-won of ICMLab, Department of Electronic Electrical Engineerin
 While studying deep learning, the questions of "the order of study" and "why does it end up like that?" always remained.
 To solve questions that may be felt by researchers in the laboratory and those who are studying deep learning for the first time, we have prepared lecture videos and practices.
 
+Contact to wodnjs284@naver.com
+
 ## **Installation Process**
 * numpy
 * matplotlib
