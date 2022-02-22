@@ -35,7 +35,7 @@ Youtube : https://www.youtube.com/channel/UCWWrL41NmOpmyjhsalMqe4A
 ## **Contents**
 
 ### **Lecture 1**
-Lec 1.1
+[Lec 1.1](https://youtu.be/3GLh5v6FfxI)
 
   * About AI?
   
