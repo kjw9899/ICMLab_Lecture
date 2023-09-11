@@ -1,0 +1,4 @@
+numpy
+option
+einops
+visdom
